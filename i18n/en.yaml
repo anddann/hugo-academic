@@ -84,6 +84,11 @@
 - id: more_talks
   translation: More Talks
 
+# teaching widget
+
+- id: more_teaching
+  translation: More Semesters
+
 # Publication/Talk details
 
 - id: abstract
